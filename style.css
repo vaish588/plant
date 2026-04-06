@@ -1,0 +1,352 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+section.n {
+    background-color: rgb(14, 66, 14);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+
+}
+
+header {
+    text-align: center;
+    color: green;
+    background-color: #fff;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+section.a {
+    margin: 0;
+    background-image: url(https://hiseedgar.com/cdn/shop/files/adf17f4af11430b34a0121c4906b2a89.jpg?v=1767598974&width=660);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    font-size: large;
+    padding-top: 120px;
+    color: rgb(49, 49, 47);
+}
+
+section.b {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.red {
+    background-color: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+section.c {
+    text-align: center;
+    font-size: 40px;
+}
+
+section.d {
+    text-align: center;
+    background-color: rgb(13, 88, 13);
+    color: #eef3f3;
+    margin: 0;
+}
+section.gh{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 20px;
+}
+section.hj{
+    display: flex;
+
+    justify-content: center;
+    gap: 20px;
+    padding: 120px;
+
+}
+div.ul{
+     background-image: url(https://hiseedgar.com/cdn/shop/files/7.jpg?v=1767595503&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    text-align: center;
+    color:  rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+}
+div.ul1{
+      background-image: url(https://hiseedgar.com/cdn/shop/files/4.jpg?v=1767595509&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    text-align: center;
+    color:  rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+}
+div.ul2{
+      background-image: url(https://hiseedgar.com/cdn/shop/files/4_Neverland.jpg?v=1767669738&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+}
+div.ul3{
+    background-image: url(https://hiseedgar.com/cdn/shop/files/6391ace427ade714b70fb966024ae804.jpg?v=1767595569&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    text-align: center;
+    color:  rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+ } 
+div.ul4{
+ background-image: url(https://hiseedgar.com/cdn/shop/files/77ad065df0cdbabb08cf4475f046f61b.webp?v=1767595582&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    text-align: center;
+    color:  rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+}
+div.ul5{
+     background-image: url(https://hiseedgar.com/cdn/shop/files/2__bot.jpg?v=1767595519&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    text-align: center;
+    color:  rgb(116, 27, 27);
+    font-weight: bold;
+
+    padding: 120px;
+}
+
+
+.a,
+p {
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+
+section.f {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+section.l {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 20px;
+}
+
+section.m {
+    display: flex;
+
+    justify-content: center;
+    gap: 20px;
+    padding: 120px;
+}
+
+div.light {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/2__FJJ.jpg?v=1767595830&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+    padding: 120px;
+}
+
+button.yes {
+    border: black;
+    border-radius: 10px;
+    margin: 10px 3px 3px 10px;
+    cursor: pointer;
+}
+
+div.ligh {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/jimeng-2025-03-26-9164-_....png?v=1767595754&width=360);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    padding: 120px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+}
+
+div.lig {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/jimeng-2025-06-22-2009-_....jpg?v=1767595787&width=660);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+
+}
+
+div.li {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/2_56a77757-bb88-41a9-bf64-3dbb00d1aaf7.jpg?v=1767595795&width=360);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+
+}
+
+div.p {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/jimeng-2025-06-21-6482-_....jpg?v=1767595807&width=360);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+}
+
+div.q {
+    background-image: url(https://hiseedgar.com/cdn/shop/files/1.jpg?v=1767595818&width=360);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    padding: 120px;
+    text-align: center;
+    color: rgb(180, 96, 70);
+    font-weight: bold;
+
+
+}
+
+section.g {
+    text-align: center;
+}
+
+.g,
+h2 {
+    font-size: 40px;
+}
+
+.g,
+p {
+    font-size: 20px;
+}
+
+section.s {
+    text-align: center;
+
+}
+
+section.o {
+    display: flex;
+}
+
+div.pen {
+    margin: 10px 0px 3px 10px;
+ 
+}
+
+div.lamp {
+    
+    margin: 10px 0px 3px 10px;
+
+}
+
+div.pic {
+   
+    margin: 10px 0px 3px 10px;
+
+
+}
+
+    font-size: 30px;
+
+
+button.no {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+section.r {
+    background-color: rgb(44, 179, 73);
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.r {
+    background-color: #fff;
+    width: 450px;
+    margin: auto;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.ab,
+.bc,
+.cb,
+.ac {
+    background-color: rgb(181, 247, 169);
+    width: 85%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.ac {
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(2, 2, 2);
+    color: #eef3f3;
+    text-align: center;
+}
